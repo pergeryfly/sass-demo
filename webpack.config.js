@@ -14,8 +14,6 @@ paths.map(p => {
         }),
     )
 })
-console.log(entry)
-console.log(plugins)
 module.exports = {
     entry: entry,
     mode: 'production',
